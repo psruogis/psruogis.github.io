@@ -88,6 +88,42 @@ header a {
 }
 
 
+.services h1 {
+
+    font-weight: 400;
+    margin-top: 80px;
+}
+
+.services hr {
+
+    border-bottom-width: 0;
+    border-top: 1px solid #eee;
+
+}
+
+.services .services__text {
+
+    width: 80%;
+    margin: 30px auto;
+
+}
+
+.services ul {
+
+    list-style: none;
+    padding-left: 0;
+}
+
+.services ul li {
+
+min-width: 180px;
+
+}
+
+footer {
+
+    min-height: 300px;
+}
 /*
     Welcome
 */
